@@ -50,7 +50,7 @@ Digital-Image-Processing-Projects/
 ## 🚀 Main Entry Points
 
 ### 1) Viola-Jones Face Detector
-Run from `/home/runner/work/Digital-Image-Processing-Projects/Digital-Image-Processing-Projects/Viola-Jones-Face-Detector`.
+Run from `Digital-Image-Processing-Projects/Viola-Jones-Face-Detector`.
 
 - **Generate dataset**
   - `python dataset_generator.py`
@@ -62,7 +62,7 @@ Run from `/home/runner/work/Digital-Image-Processing-Projects/Digital-Image-Proc
   - `python detect_faces.py --image_path <path_to_image>`
 
 ### 2) 3D Object Reconstruction
-Run from `/home/runner/work/Digital-Image-Processing-Projects/Digital-Image-Processing-Projects/3D_Object_Reconstruction`.
+Run from `Digital-Image-Processing-Projects/3D_Object_Reconstruction`.
 
 - **Execute full reconstruction workflow**
   - Open and run `code.m` in MATLAB (or compatible Octave setup)
@@ -81,6 +81,6 @@ Run from `/home/runner/work/Digital-Image-Processing-Projects/Digital-Image-Proc
 ## 📚 Documentation
 
 - Project-specific setup and usage:
-  - `/home/runner/work/Digital-Image-Processing-Projects/Digital-Image-Processing-Projects/Viola-Jones-Face-Detector/README.md`
-  - `/home/runner/work/Digital-Image-Processing-Projects/Digital-Image-Processing-Projects/Viola-Jones-Face-Detector/INSTRUCTIONS.md`
+  - `Digital-Image-Processing-Projects/Viola-Jones-Face-Detector/README.md`
+  - `Digital-Image-Processing-Projects/Viola-Jones-Face-Detector/INSTRUCTIONS.md`
 - Assignment/report material is included inside each project folder.
